@@ -37,7 +37,7 @@
     <img alt="C++" src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=plastic&logo=unrealengine&logoColor=white">
 
 
-
+<p>
 <h3 align="left">Operating Systems:</h3>
 <p align="left">
   &emsp;
@@ -47,7 +47,7 @@
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>  
   &emsp;
-    <a href="#"><img src="https://shields.io/badge/MacOS--9cf?style=plastic&logo=Apple&logoColor=white"></a>  
+    <a href="#"><img src="https://shields.io/badge/MacOS--9cf?style=plastic&logo=Apple&logoColor=white"></a>  	
 </p>
 
 
