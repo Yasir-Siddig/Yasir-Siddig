@@ -57,7 +57,7 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Yasir-Siddig&theme=tokyonight_duo" alt="Yasir-Siddig" /></p>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github.com/Yasir-Siddig/github-readme-stats">
 	    <img alt="Yasir-Siddig's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Yasir-Siddig&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yasir-Siddig&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Yasir-Siddig" height="230px"/>
 <br/>
