@@ -64,7 +64,7 @@
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yasir-Siddig" alt="Yasir-Siddig" /></a> </p>
+  <p align="left"> <a href="https://github.com/Yasir-Siddig"><img src="https://github-profile-trophy.vercel.app/?username=Yasir-Siddig" alt="Yasir-Siddig" /></a> </p>
 
   
 
